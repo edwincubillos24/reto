@@ -1,7 +1,7 @@
 package figura;
 
 public class Figura {
-    //hola
+    //hola nueva version
     private int ancho, alto; //Publicas por defecto
 
     public int getAncho() {

@@ -1,7 +1,7 @@
 package figura;
 
 import java.util.Scanner;
-
+//version 3.0
 public class Principal {
     public static void main(String[] args) {
         
